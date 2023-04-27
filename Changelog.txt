@@ -1,0 +1,13 @@
+V1
+Start of the Game
+Base Game Works!
+V2
+Added Leaderboard system where it saves the scores into a txt file
+Current System is based on monster defeated
+V3
+Putting everything into objects
+V4 
+Adding Hard mode
+Fixed bugs in regards to goblins doing negative damage
+Added Medium
+Added Artifacts 
